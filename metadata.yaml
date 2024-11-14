@@ -1,0 +1,34 @@
+_repo: In-the-stranger-people-s-country-b-A-novel_74630
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Craddock, Charles Egbert
+    aliases:
+    - Dembry, R. Emmett
+    - Murfree, Mary Noailles
+    birthdate: 1850
+    deathdate: 1922
+    gutenberg_agent_id: '1759'
+    url: http://www.gutenberg.org/2009/agents/1759
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Noailles_Murfree
+description: ''
+gutenberg_issued: '2024-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74630'
+language: en
+pgterms:marc904: https://archive.org/details/strangerpeoples00murfrich
+pgterms:marc905: 20201107083705craddock
+pgterms:marc906: '1891'
+pgterms:marc907: us
+production_note: Peter Becker, Mary Meehan and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bHarper & Brothers, $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'In the "stranger people''s" country : $b A novel'
+url: http://www.gutenberg.org/ebooks/74630
